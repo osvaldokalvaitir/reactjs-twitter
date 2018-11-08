@@ -51,7 +51,7 @@ npm run build | yarn run build
   - [Create React App](#create-react-app)
   - [React Router](#react-router)
   - [Axios](#axios)
-  - [socket.io-client](#socketioclient)
+  - [socket.io-client](#socketio-client)
   
 - [APIs](#apis)
   - [Twitter Backend](#twitter-backend)
