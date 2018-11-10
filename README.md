@@ -2,7 +2,7 @@
 
 Front-end with dinamic interface using React and consuming the features of the Twitter Backend API.
 
-Front-end com interface dinâmica utilizando React e cosumindo os recursos da API do Twitter Backend.
+Front-end com interface dinâmica utilizando React e consumindo os recursos da API do Twitter Backend.
 
 
 ## Resumo
