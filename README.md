@@ -60,9 +60,11 @@ npm run build | yarn run build
 ## Telas
 
 ### Login
+![Screenshoot Login](https://github.com/osvaldokalvaitir/starwars/blob/master/screenshot/Login.png)
 Esta é a primeira tela, para entrar o usuário terá que digitar seu nome e clicar em 'Entrar'.
 
 ### Timeline
+![Screenshoot Timeline](https://github.com/osvaldokalvaitir/starwars/blob/master/screenshot/Timeline.png)
 É a tela onde estão todos os tweets vindos da API, podendo adicionar novos tweets e dar like nos tweets existentes.
 Composto por: Listagem
 
