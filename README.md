@@ -1,4 +1,4 @@
-## Twitter Frontend
+# Twitter Frontend
 
 Front-end with dinamic interface using React and consuming the features of the Twitter Backend API.
 
