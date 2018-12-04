@@ -26,7 +26,7 @@ Este projeto foi desenvolvido em React consumindo os recursos da API do Twitter 
   
   - [Execução do Projeto](#execução-do-projeto)
 
-  - [Bibliotecas do Node.js](#bibliotecas-do-nodejs)
+  - [Bibliotecas](#bibliotecas)
 
   - [APIs](#apis)
 
@@ -56,7 +56,7 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md) e siga a Execução de Projeto.
 
-### Bibliotecas do Node.js
+### Bibliotecas
 
 - [Axios](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/axios.md)
 
