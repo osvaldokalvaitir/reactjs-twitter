@@ -15,11 +15,8 @@ Este projeto foi desenvolvido em React consumindo os recursos da API do Twitter 
 - [Telas](#telas)
 
   - [Login](#login)
+  
   - [Timeline](#timeline)
-
-- [Componentes](#componentes)
-
-  - [Listagem](#listagem)
 
 - [Desenvolvimento](#desenvolvimento)
 
@@ -44,13 +41,6 @@ Esta é a primeira tela, para entrar o usuário terá que digitar seu nome e cli
 
 ![Screenshoot Timeline](https://github.com/osvaldokalvaitir/twitter-frontend/blob/master/screenshots/Timeline.png)
 É a tela onde estão todos os tweets vindos da API, podendo adicionar novos tweets e dar like nos tweets existentes.
-Composto por: Listagem
-
-## Componentes
-
-### Listagem
-
-É a lista onde encontram-se os tweets vindos da API.
 
 ## Desenvolvimento
 
