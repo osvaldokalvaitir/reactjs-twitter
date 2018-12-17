@@ -1,10 +1,10 @@
 # Twitter Frontend
 
-Front-end com interface dinâmica utilizando React e consumindo os recursos da API do [Twitter Backend](https://github.com/osvaldokalvaitir/twitter-backend).
+Front-end com interface dinâmica utilizando ReactJS e consumindo os recursos da API do [Twitter Backend](https://github.com/osvaldokalvaitir/twitter-backend).
 
 ## Resumo
 
-Esta aplicação foi desenvolvida em React para consumir os seguintes recursos da API do [Twitter Backend](https://github.com/osvaldokalvaitir/twitter-backend):
+Esta aplicação foi desenvolvida em ReactJS para consumir os seguintes recursos da API do [Twitter Backend](https://github.com/osvaldokalvaitir/twitter-backend):
 
 - Busca todos os tweets
 - Adiciona novos tweets
