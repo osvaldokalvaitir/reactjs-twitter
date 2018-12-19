@@ -2,14 +2,6 @@
 
 Front-end com interface dinâmica utilizando ReactJS e consumindo os recursos da API do [Twitter Backend](https://github.com/osvaldokalvaitir/twitter-backend).
 
-## Resumo
-
-Esta aplicação foi desenvolvida em ReactJS para consumir os seguintes recursos da API do [Twitter Backend](https://github.com/osvaldokalvaitir/twitter-backend):
-
-- Busca todos os tweets
-- Adiciona novos tweets
-- Like nos tweets
-
 ## Índice
 
 - [Telas](#telas)
@@ -17,6 +9,8 @@ Esta aplicação foi desenvolvida em ReactJS para consumir os seguintes recursos
   - [Login](#login)
   
   - [Timeline](#timeline)
+  
+- [Rotas](#rotas)  
 
 - [Desenvolvimento](#desenvolvimento)
 
@@ -41,6 +35,12 @@ Esta é a primeira tela, para entrar o usuário terá que digitar seu nome e cli
 
 ![Screenshoot Timeline](https://github.com/osvaldokalvaitir/twitter-frontend/blob/master/screenshots/Timeline.png)
 É a tela onde estão todos os tweets vindos da API, podendo adicionar novos tweets e dar like nos tweets existentes.
+
+## Rotas
+
+- Busca todos os tweets
+- Adiciona novos tweets
+- Like nos tweets
 
 ## Desenvolvimento
 
