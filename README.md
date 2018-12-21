@@ -28,12 +28,12 @@ Front-end com interface dinâmica utilizando ReactJS e consumindo os recursos da
 
 ### Login
 
-![Login](https://github.com/osvaldokalvaitir/twitter-frontend/blob/master/assets/Login.png)
+![Login](/assets/login.png)
 Esta é a primeira tela, para entrar o usuário terá que digitar seu nome e clicar em 'Entrar'.
 
 ### Timeline
 
-![Timeline](https://github.com/osvaldokalvaitir/twitter-frontend/blob/master/assets/Timeline.png)
+![Timeline](/assets/timeline.png)
 É a tela onde estão todos os tweets vindos da API, podendo adicionar novos tweets e dar like nos tweets existentes.
 
 ## Rotas
