@@ -5,26 +5,26 @@ import like from '../like.svg';
 import './Tweet.css';
 
 class Tweet extends Component {
-    handleLike = async () => {
-        const { _id } = this.props.tweet;
+  handleLike = async () => {
+    const { _id } = this.props.tweet;
 
-        await api.post(`likes/${_id}`);
-    }
+    await api.post(`likes/${_id}`);
+  };
 
-    render() {
-        const { tweet } = this.props;
+  render() {
+    const { tweet } = this.props;
 
-        return (
-            <li className="tweet">
-                <strong>{tweet.author}</strong>
-                <p>{tweet.content}</p>
-                <button type="button" onClick={this.handleLike}>
-                    <img src={like} alt="Like" />
-                    {tweet.likes}
-                </button>
-            </li>
-        );
-    }
+    return (
+      <li className="tweet">
+        <strong>{tweet.author}</strong>
+        <p>{tweet.content}</p>
+        <button type="button" onClick={this.handleLike}>
+          <img src={like} alt="Like" />
+          {tweet.likes}
+        </button>
+      </li>
+    );
+  }
 }
 
 export default Tweet;
