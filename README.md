@@ -38,12 +38,12 @@ Aplicação Twitter usando Create React App, Axios, React Router e Socket.io con
 
 ### Login
 
-![Login](/assets/login.png)
+![Login](/.github/assets/login.png)
 Esta é a primeira tela, para entrar o usuário terá que digitar seu nome e clicar em 'Entrar'.
 
 ### Timeline
 
-![Timeline](/assets/timeline.png)
+![Timeline](/.github/assets/timeline.png)
 É a tela onde estão todos os tweets vindos da API, podendo adicionar novos tweets e dar like nos tweets existentes.
 
 ## Desenvolvimento
