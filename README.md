@@ -10,7 +10,7 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-Aplicação Twitter usando Create React App, Axios, React Router e Socket.io consumindo os recursos da API do [Node - Twitter](https://github.com/osvaldokalvaitir/node-twitter).
+Aplicação Twitter usando Create React App, Axios, React Router e Socket.io consumindo os recursos da API do [Node.js - Twitter](https://github.com/osvaldokalvaitir/nodejs-twitter).
 
 ## Índice
 
@@ -82,7 +82,7 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 ### APIs
 
-- **[Node - Twitter](https://github.com/osvaldokalvaitir/node-twitter)**
+- **[Node.js - Twitter](https://github.com/osvaldokalvaitir/nodejs-twitter)**
 
   - **Rotas**
 
